@@ -2,7 +2,8 @@
 
 ### Installation
 ```
-npm install
+$ npm install
+
 // start server
-npm start
+$ npm start
 ```
